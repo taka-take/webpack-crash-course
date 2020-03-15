@@ -1,0 +1,26 @@
+{
+  "name": "webpack-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taka-take/webpack-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taka-take/webpack-crash-course/issues"
+  },
+  "homepage": "https://github.com/taka-take/webpack-crash-course#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "liveserver": "^0.1.20",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
