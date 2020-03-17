@@ -1,7 +1,7 @@
 import _ from 'lodash';
-import Tiger from './utilities';
+import style from './style.css';
 
-console.log(Tiger.say());
+console.log(style.toString());
 
 const component = () => {
   const element = document.createElement('div');
@@ -11,3 +11,4 @@ const component = () => {
 };
 
 document.body.appendChild(component());
+document.body.classList.add('background');
