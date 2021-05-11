@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/taka-take/webpack-crash-course#readme",
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   },
